@@ -1,1 +1,642 @@
-{}
+{
+  "en": {
+    "codes": [
+      {
+        "slug": "anime-overseer-codes",
+        "file": "anime-overseer-codes"
+      }
+    ],
+    "gameplay": [
+      {
+        "slug": "anime-overseer-first-time",
+        "file": "anime-overseer-first-time"
+      },
+      {
+        "slug": "anime-overseer-gameplay",
+        "file": "anime-overseer-gameplay"
+      },
+      {
+        "slug": "anime-overseer-roblox",
+        "file": "anime-overseer-roblox"
+      },
+      {
+        "slug": "anime-overseer-tower-defense",
+        "file": "anime-overseer-tower-defense"
+      },
+      {
+        "slug": "anime-overseer-upgrades",
+        "file": "anime-overseer-upgrades"
+      },
+      {
+        "slug": "anime-overseer-waves",
+        "file": "anime-overseer-waves"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "anime-overseer-beginner-guide",
+        "file": "anime-overseer-beginner-guide"
+      },
+      {
+        "slug": "anime-overseer-full-guide",
+        "file": "anime-overseer-full-guide"
+      },
+      {
+        "slug": "anime-overseer-guide",
+        "file": "anime-overseer-guide"
+      },
+      {
+        "slug": "anime-overseer-how-to-play",
+        "file": "anime-overseer-how-to-play"
+      },
+      {
+        "slug": "anime-overseer-progression-guide",
+        "file": "anime-overseer-progression-guide"
+      },
+      {
+        "slug": "anime-overseer-tips",
+        "file": "anime-overseer-tips"
+      }
+    ],
+    "release": [
+      {
+        "slug": "anime-overseer-early-access",
+        "file": "anime-overseer-early-access"
+      },
+      {
+        "slug": "anime-overseer-new-update",
+        "file": "anime-overseer-new-update"
+      },
+      {
+        "slug": "anime-overseer-patch-notes",
+        "file": "anime-overseer-patch-notes"
+      },
+      {
+        "slug": "anime-overseer-release",
+        "file": "anime-overseer-release"
+      },
+      {
+        "slug": "anime-overseer-update",
+        "file": "anime-overseer-update"
+      }
+    ],
+    "resources": [
+      {
+        "slug": "anime-overseer-farming-guide",
+        "file": "anime-overseer-farming-guide"
+      },
+      {
+        "slug": "anime-overseer-gems",
+        "file": "anime-overseer-gems"
+      },
+      {
+        "slug": "anime-overseer-gold",
+        "file": "anime-overseer-gold"
+      },
+      {
+        "slug": "anime-overseer-reroll-guide",
+        "file": "anime-overseer-reroll-guide"
+      },
+      {
+        "slug": "anime-overseer-soul-crystals",
+        "file": "anime-overseer-soul-crystals"
+      },
+      {
+        "slug": "anime-overseer-trait-discs",
+        "file": "anime-overseer-trait-discs"
+      }
+    ],
+    "tier-list": [
+      {
+        "slug": "anime-overseer-best-team",
+        "file": "anime-overseer-best-team"
+      },
+      {
+        "slug": "anime-overseer-best-units",
+        "file": "anime-overseer-best-units"
+      },
+      {
+        "slug": "anime-overseer-meta-units",
+        "file": "anime-overseer-meta-units"
+      },
+      {
+        "slug": "anime-overseer-team-tier-list",
+        "file": "anime-overseer-team-tier-list"
+      },
+      {
+        "slug": "anime-overseer-tier-list",
+        "file": "anime-overseer-tier-list"
+      },
+      {
+        "slug": "anime-overseer-unit-tier-list",
+        "file": "anime-overseer-unit-tier-list"
+      }
+    ],
+    "units": [
+      {
+        "slug": "anime-overseer-evolve-units",
+        "file": "anime-overseer-evolve-units"
+      },
+      {
+        "slug": "anime-overseer-rare-units",
+        "file": "anime-overseer-rare-units"
+      },
+      {
+        "slug": "anime-overseer-secret-units",
+        "file": "anime-overseer-secret-units"
+      },
+      {
+        "slug": "anime-overseer-summon-guide",
+        "file": "anime-overseer-summon-guide"
+      },
+      {
+        "slug": "anime-overseer-unit-evolution",
+        "file": "anime-overseer-unit-evolution"
+      },
+      {
+        "slug": "anime-overseer-units",
+        "file": "anime-overseer-units"
+      }
+    ]
+  },
+  "es": {
+    "codes": [
+      {
+        "slug": "anime-overseer-codes",
+        "file": "anime-overseer-codes"
+      }
+    ],
+    "gameplay": [
+      {
+        "slug": "anime-overseer-first-time",
+        "file": "anime-overseer-first-time"
+      },
+      {
+        "slug": "anime-overseer-gameplay",
+        "file": "anime-overseer-gameplay"
+      },
+      {
+        "slug": "anime-overseer-roblox",
+        "file": "anime-overseer-roblox"
+      },
+      {
+        "slug": "anime-overseer-tower-defense",
+        "file": "anime-overseer-tower-defense"
+      },
+      {
+        "slug": "anime-overseer-upgrades",
+        "file": "anime-overseer-upgrades"
+      },
+      {
+        "slug": "anime-overseer-waves",
+        "file": "anime-overseer-waves"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "anime-overseer-beginner-guide",
+        "file": "anime-overseer-beginner-guide"
+      },
+      {
+        "slug": "anime-overseer-full-guide",
+        "file": "anime-overseer-full-guide"
+      },
+      {
+        "slug": "anime-overseer-guide",
+        "file": "anime-overseer-guide"
+      },
+      {
+        "slug": "anime-overseer-how-to-play",
+        "file": "anime-overseer-how-to-play"
+      },
+      {
+        "slug": "anime-overseer-progression-guide",
+        "file": "anime-overseer-progression-guide"
+      },
+      {
+        "slug": "anime-overseer-tips",
+        "file": "anime-overseer-tips"
+      }
+    ],
+    "release": [
+      {
+        "slug": "anime-overseer-early-access",
+        "file": "anime-overseer-early-access"
+      },
+      {
+        "slug": "anime-overseer-new-update",
+        "file": "anime-overseer-new-update"
+      },
+      {
+        "slug": "anime-overseer-patch-notes",
+        "file": "anime-overseer-patch-notes"
+      },
+      {
+        "slug": "anime-overseer-release",
+        "file": "anime-overseer-release"
+      },
+      {
+        "slug": "anime-overseer-update",
+        "file": "anime-overseer-update"
+      }
+    ],
+    "resources": [
+      {
+        "slug": "anime-overseer-farming-guide",
+        "file": "anime-overseer-farming-guide"
+      },
+      {
+        "slug": "anime-overseer-gems",
+        "file": "anime-overseer-gems"
+      },
+      {
+        "slug": "anime-overseer-gold",
+        "file": "anime-overseer-gold"
+      },
+      {
+        "slug": "anime-overseer-reroll-guide",
+        "file": "anime-overseer-reroll-guide"
+      },
+      {
+        "slug": "anime-overseer-soul-crystals",
+        "file": "anime-overseer-soul-crystals"
+      },
+      {
+        "slug": "anime-overseer-trait-discs",
+        "file": "anime-overseer-trait-discs"
+      }
+    ],
+    "tier-list": [
+      {
+        "slug": "anime-overseer-best-team",
+        "file": "anime-overseer-best-team"
+      },
+      {
+        "slug": "anime-overseer-best-units",
+        "file": "anime-overseer-best-units"
+      },
+      {
+        "slug": "anime-overseer-meta-units",
+        "file": "anime-overseer-meta-units"
+      },
+      {
+        "slug": "anime-overseer-team-tier-list",
+        "file": "anime-overseer-team-tier-list"
+      },
+      {
+        "slug": "anime-overseer-tier-list",
+        "file": "anime-overseer-tier-list"
+      },
+      {
+        "slug": "anime-overseer-unit-tier-list",
+        "file": "anime-overseer-unit-tier-list"
+      }
+    ],
+    "units": [
+      {
+        "slug": "anime-overseer-evolve-units",
+        "file": "anime-overseer-evolve-units"
+      },
+      {
+        "slug": "anime-overseer-rare-units",
+        "file": "anime-overseer-rare-units"
+      },
+      {
+        "slug": "anime-overseer-secret-units",
+        "file": "anime-overseer-secret-units"
+      },
+      {
+        "slug": "anime-overseer-summon-guide",
+        "file": "anime-overseer-summon-guide"
+      },
+      {
+        "slug": "anime-overseer-unit-evolution",
+        "file": "anime-overseer-unit-evolution"
+      },
+      {
+        "slug": "anime-overseer-units",
+        "file": "anime-overseer-units"
+      }
+    ]
+  },
+  "ja": {
+    "codes": [
+      {
+        "slug": "anime-overseer-codes",
+        "file": "anime-overseer-codes"
+      }
+    ],
+    "gameplay": [
+      {
+        "slug": "anime-overseer-first-time",
+        "file": "anime-overseer-first-time"
+      },
+      {
+        "slug": "anime-overseer-gameplay",
+        "file": "anime-overseer-gameplay"
+      },
+      {
+        "slug": "anime-overseer-roblox",
+        "file": "anime-overseer-roblox"
+      },
+      {
+        "slug": "anime-overseer-tower-defense",
+        "file": "anime-overseer-tower-defense"
+      },
+      {
+        "slug": "anime-overseer-upgrades",
+        "file": "anime-overseer-upgrades"
+      },
+      {
+        "slug": "anime-overseer-waves",
+        "file": "anime-overseer-waves"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "anime-overseer-beginner-guide",
+        "file": "anime-overseer-beginner-guide"
+      },
+      {
+        "slug": "anime-overseer-full-guide",
+        "file": "anime-overseer-full-guide"
+      },
+      {
+        "slug": "anime-overseer-guide",
+        "file": "anime-overseer-guide"
+      },
+      {
+        "slug": "anime-overseer-how-to-play",
+        "file": "anime-overseer-how-to-play"
+      },
+      {
+        "slug": "anime-overseer-progression-guide",
+        "file": "anime-overseer-progression-guide"
+      },
+      {
+        "slug": "anime-overseer-tips",
+        "file": "anime-overseer-tips"
+      }
+    ],
+    "release": [
+      {
+        "slug": "anime-overseer-early-access",
+        "file": "anime-overseer-early-access"
+      },
+      {
+        "slug": "anime-overseer-new-update",
+        "file": "anime-overseer-new-update"
+      },
+      {
+        "slug": "anime-overseer-patch-notes",
+        "file": "anime-overseer-patch-notes"
+      },
+      {
+        "slug": "anime-overseer-release",
+        "file": "anime-overseer-release"
+      },
+      {
+        "slug": "anime-overseer-update",
+        "file": "anime-overseer-update"
+      }
+    ],
+    "resources": [
+      {
+        "slug": "anime-overseer-farming-guide",
+        "file": "anime-overseer-farming-guide"
+      },
+      {
+        "slug": "anime-overseer-gems",
+        "file": "anime-overseer-gems"
+      },
+      {
+        "slug": "anime-overseer-gold",
+        "file": "anime-overseer-gold"
+      },
+      {
+        "slug": "anime-overseer-reroll-guide",
+        "file": "anime-overseer-reroll-guide"
+      },
+      {
+        "slug": "anime-overseer-soul-crystals",
+        "file": "anime-overseer-soul-crystals"
+      },
+      {
+        "slug": "anime-overseer-trait-discs",
+        "file": "anime-overseer-trait-discs"
+      }
+    ],
+    "tier-list": [
+      {
+        "slug": "anime-overseer-best-team",
+        "file": "anime-overseer-best-team"
+      },
+      {
+        "slug": "anime-overseer-best-units",
+        "file": "anime-overseer-best-units"
+      },
+      {
+        "slug": "anime-overseer-meta-units",
+        "file": "anime-overseer-meta-units"
+      },
+      {
+        "slug": "anime-overseer-team-tier-list",
+        "file": "anime-overseer-team-tier-list"
+      },
+      {
+        "slug": "anime-overseer-tier-list",
+        "file": "anime-overseer-tier-list"
+      },
+      {
+        "slug": "anime-overseer-unit-tier-list",
+        "file": "anime-overseer-unit-tier-list"
+      }
+    ],
+    "units": [
+      {
+        "slug": "anime-overseer-evolve-units",
+        "file": "anime-overseer-evolve-units"
+      },
+      {
+        "slug": "anime-overseer-rare-units",
+        "file": "anime-overseer-rare-units"
+      },
+      {
+        "slug": "anime-overseer-secret-units",
+        "file": "anime-overseer-secret-units"
+      },
+      {
+        "slug": "anime-overseer-summon-guide",
+        "file": "anime-overseer-summon-guide"
+      },
+      {
+        "slug": "anime-overseer-unit-evolution",
+        "file": "anime-overseer-unit-evolution"
+      },
+      {
+        "slug": "anime-overseer-units",
+        "file": "anime-overseer-units"
+      }
+    ]
+  },
+  "pt": {
+    "codes": [
+      {
+        "slug": "anime-overseer-codes",
+        "file": "anime-overseer-codes"
+      }
+    ],
+    "gameplay": [
+      {
+        "slug": "anime-overseer-first-time",
+        "file": "anime-overseer-first-time"
+      },
+      {
+        "slug": "anime-overseer-gameplay",
+        "file": "anime-overseer-gameplay"
+      },
+      {
+        "slug": "anime-overseer-roblox",
+        "file": "anime-overseer-roblox"
+      },
+      {
+        "slug": "anime-overseer-tower-defense",
+        "file": "anime-overseer-tower-defense"
+      },
+      {
+        "slug": "anime-overseer-upgrades",
+        "file": "anime-overseer-upgrades"
+      },
+      {
+        "slug": "anime-overseer-waves",
+        "file": "anime-overseer-waves"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "anime-overseer-beginner-guide",
+        "file": "anime-overseer-beginner-guide"
+      },
+      {
+        "slug": "anime-overseer-full-guide",
+        "file": "anime-overseer-full-guide"
+      },
+      {
+        "slug": "anime-overseer-guide",
+        "file": "anime-overseer-guide"
+      },
+      {
+        "slug": "anime-overseer-how-to-play",
+        "file": "anime-overseer-how-to-play"
+      },
+      {
+        "slug": "anime-overseer-progression-guide",
+        "file": "anime-overseer-progression-guide"
+      },
+      {
+        "slug": "anime-overseer-tips",
+        "file": "anime-overseer-tips"
+      }
+    ],
+    "release": [
+      {
+        "slug": "anime-overseer-early-access",
+        "file": "anime-overseer-early-access"
+      },
+      {
+        "slug": "anime-overseer-new-update",
+        "file": "anime-overseer-new-update"
+      },
+      {
+        "slug": "anime-overseer-patch-notes",
+        "file": "anime-overseer-patch-notes"
+      },
+      {
+        "slug": "anime-overseer-release",
+        "file": "anime-overseer-release"
+      },
+      {
+        "slug": "anime-overseer-update",
+        "file": "anime-overseer-update"
+      }
+    ],
+    "resources": [
+      {
+        "slug": "anime-overseer-farming-guide",
+        "file": "anime-overseer-farming-guide"
+      },
+      {
+        "slug": "anime-overseer-gems",
+        "file": "anime-overseer-gems"
+      },
+      {
+        "slug": "anime-overseer-gold",
+        "file": "anime-overseer-gold"
+      },
+      {
+        "slug": "anime-overseer-reroll-guide",
+        "file": "anime-overseer-reroll-guide"
+      },
+      {
+        "slug": "anime-overseer-soul-crystals",
+        "file": "anime-overseer-soul-crystals"
+      },
+      {
+        "slug": "anime-overseer-trait-discs",
+        "file": "anime-overseer-trait-discs"
+      }
+    ],
+    "tier-list": [
+      {
+        "slug": "anime-overseer-best-team",
+        "file": "anime-overseer-best-team"
+      },
+      {
+        "slug": "anime-overseer-best-units",
+        "file": "anime-overseer-best-units"
+      },
+      {
+        "slug": "anime-overseer-meta-units",
+        "file": "anime-overseer-meta-units"
+      },
+      {
+        "slug": "anime-overseer-team-tier-list",
+        "file": "anime-overseer-team-tier-list"
+      },
+      {
+        "slug": "anime-overseer-tier-list",
+        "file": "anime-overseer-tier-list"
+      },
+      {
+        "slug": "anime-overseer-unit-tier-list",
+        "file": "anime-overseer-unit-tier-list"
+      }
+    ],
+    "units": [
+      {
+        "slug": "anime-overseer-evolve-units",
+        "file": "anime-overseer-evolve-units"
+      },
+      {
+        "slug": "anime-overseer-rare-units",
+        "file": "anime-overseer-rare-units"
+      },
+      {
+        "slug": "anime-overseer-secret-units",
+        "file": "anime-overseer-secret-units"
+      },
+      {
+        "slug": "anime-overseer-summon-guide",
+        "file": "anime-overseer-summon-guide"
+      },
+      {
+        "slug": "anime-overseer-unit-evolution",
+        "file": "anime-overseer-unit-evolution"
+      },
+      {
+        "slug": "anime-overseer-units",
+        "file": "anime-overseer-units"
+      }
+    ]
+  }
+}

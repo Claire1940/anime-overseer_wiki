@@ -10,7 +10,15 @@
       "twitterDescription": "Anime Overseer Wiki covers codes, units, tier list, evolution, and best teams for the Roblox anime tower defense game."
     }
   },
-  "nav": {},
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "tierList": "Tier List",
+    "units": "Units",
+    "resources": "Resources",
+    "gameplay": "Gameplay",
+    "release": "Release"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -577,125 +585,145 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "guides": {
+    "codes": {
+      "title": "Anime Overseer Codes",
+      "description": "Active Anime Overseer codes for free Gems, Gold, Trait Discs, Soul Crystals, and more progression rewards.",
+      "metaTitle": "Anime Overseer Codes - Free Gems, Gold & Rewards",
+      "metaDescription": "Claim active Anime Overseer codes for free Gems, Gold, Trait Discs, Soul Crystals, and rerolls to speed up your Early Access progression.",
+      "categoryLabel": "REDEEM CODES",
+      "whatIs": "What are Codes?",
+      "whatIsDescription": "Anime Overseer codes are redeemable strings released by the developers that grant free Gems, Gold, Trait Discs, Soul Crystals, Disc Rerolls, and food items. Redeeming them is the fastest way to fund summons, upgrades, and trait prep without grinding.",
+      "why": "Why redeem codes?",
+      "whySteps": {
+        "step1Title": "Claim Free Resources",
+        "step1Description": "Turn active codes into Gems, Gold, Trait Discs, and Soul Crystals instantly",
+        "step2Title": "Speed Up Early Progress",
+        "step2Description": "Use code rewards to summon starter units and fund early upgrades",
+        "step3Title": "Stockpile Rare Materials",
+        "step3Description": "Save premium Trait Discs and Soul Crystals for your strongest carry units"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Codes"
+    },
+    "guide": {
       "title": "Anime Overseer Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced team and evolution strategies for Anime Overseer.",
+      "description": "Complete Anime Overseer guides covering how to play, beginner setup, progression, and advanced strategies.",
       "metaTitle": "Anime Overseer Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Anime Overseer guides covering beginner tips, codes, units, evolution, waves, and best team strategies for the Roblox anime tower defense game.",
-      "categoryLabel": "GAME GUIDES",
+      "metaDescription": "Master Anime Overseer with guides on how to play, beginner setup, progression paths, tips, and advanced team strategies for the Roblox anime tower defense game.",
+      "categoryLabel": "GUIDES",
       "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering Anime Overseer gameplay mechanics, codes, units, evolution, and team building from first steps to advanced techniques.",
+      "whatIsDescription": "Anime Overseer guides walk you through the full game flow, from your first summon and wave defense to long-term progression, evolution planning, and advanced tactics for harder content.",
       "why": "Why read guides?",
       "whySteps": {
         "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand waves, upgrades, and evolution and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to clear waves and grow your team in Anime Overseer",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for endless modes, co-op, and harder waves"
+        "step1Description": "Understand summons, waves, upgrades, and evolution before spending resources",
+        "step2Title": "Progress Faster",
+        "step2Description": "Follow clear paths from beginner setup to a stable, wave-clearing roster",
+        "step3Title": "Master Advanced Play",
+        "step3Description": "Develop tactics for endless modes, co-op, and high-pressure waves"
       },
       "featured": "Featured & Essential",
       "all": "All Guides"
     },
-    "crafting": {
+    "tier-list": {
+      "title": "Anime Overseer Tier List",
+      "description": "Anime Overseer tier lists ranking the best units and teams by output, wave clear, boss damage, and value.",
+      "metaTitle": "Anime Overseer Tier List - Best Units & Teams",
+      "metaDescription": "See the best Anime Overseer units and teams ranked by output, wave clear, boss damage, and value to build the strongest lineup for every mode.",
+      "categoryLabel": "TIER LIST",
+      "whatIs": "What is the Tier List?",
+      "whatIsDescription": "The Anime Overseer tier list ranks units and teams by damage output, wave-clear speed, boss performance, and overall value, so you can see which fighters deserve your Gems, upgrades, and evolution materials.",
+      "why": "Why use the tier list?",
+      "whySteps": {
+        "step1Title": "Find the Strongest Units",
+        "step1Description": "See which units lead in output, wave clear, and boss damage",
+        "step2Title": "Build Around Top Picks",
+        "step2Description": "Shape your roster around the best carries, AoE, and support units",
+        "step3Title": "Invest With Confidence",
+        "step3Description": "Spend Gems and evolution materials on units that hold their ranking"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Tier Lists"
+    },
+    "units": {
       "title": "Anime Overseer Units",
-      "description": "Detailed Anime Overseer unit guides covering roles, skill types, wave-clear value, and best-use scenarios.",
-      "metaTitle": "Anime Overseer Units - Roles, Skills & Best Use",
-      "metaDescription": "Complete Anime Overseer unit database including roles, skill types, wave-clear value, and best-use scenarios for every unit.",
+      "description": "Detailed Anime Overseer unit guides covering roles, skills, rarities, summons, evolution, and best-use scenarios.",
+      "metaTitle": "Anime Overseer Units - Roles, Skills & Evolution",
+      "metaDescription": "Browse every Anime Overseer unit with guides on roles, skill types, rarity, summons, evolution, and the scenarios where each unit performs best.",
       "categoryLabel": "UNITS",
       "whatIs": "What are Units?",
-      "whatIsDescription": "Comprehensive guides for every Anime Overseer unit, covering roles, skill types, upgrade value, and the scenarios where each unit performs best.",
-      "why": "Why check unit guides?",
+      "whatIsDescription": "Anime Overseer units are the anime fighters you summon, deploy, upgrade, and evolve to defend against enemy waves. Each unit has a role, skill type, rarity, and upgrade path that shapes where it shines on your team.",
+      "why": "Why study units?",
       "whySteps": {
         "step1Title": "Learn Unit Roles",
-        "step1Description": "Discover how each unit fits carry, support, and AoE roles",
-        "step2Title": "Optimize Your Team",
-        "step2Description": "Choose the best units for your progression stage and wave pressure",
-        "step3Title": "Improve Wave Clears",
-        "step3Description": "Equip the right units to handle harder waves and endless modes"
+        "step1Description": "See how each unit fits carry, AoE, boss, and support roles",
+        "step2Title": "Summon Smarter",
+        "step2Description": "Know which secret and rare units are worth chasing from summons",
+        "step3Title": "Plan Evolution",
+        "step3Description": "Pick the right units to upgrade and evolve for harder waves"
       },
       "featured": "Featured & Essential",
       "all": "All Units"
     },
-    "items": {
-      "title": "Anime Overseer Traits",
-      "description": "Trait Discs, Trait Rerolls, Disc Rerolls, and resource guides for Anime Overseer.",
-      "metaTitle": "Anime Overseer Traits - Discs, Rerolls & Resources",
-      "metaDescription": "Master Anime Overseer traits with guides on Trait Discs, Trait Rerolls, Soul Crystals, and the best reroll timing for your strongest units.",
-      "categoryLabel": "TRAITS & RESOURCES",
-      "whatIs": "What are Traits?",
-      "whatIsDescription": "Guides to Trait Discs, Trait Rerolls, Disc Rerolls, Soul Crystals, and the resource decisions that shape your strongest Anime Overseer units.",
-      "why": "Why plan traits?",
+    "resources": {
+      "title": "Anime Overseer Resources",
+      "description": "Anime Overseer resource guides for Gems, Gold, Trait Discs, Soul Crystals, rerolls, and farming routes.",
+      "metaTitle": "Anime Overseer Resources - Gems, Gold & Farming",
+      "metaDescription": "Master Anime Overseer resources with guides on Gems, Gold, Trait Discs, Soul Crystals, reroll timing, and the best farming routes for steady progression.",
+      "categoryLabel": "RESOURCES",
+      "whatIs": "What are Resources?",
+      "whatIsDescription": "Anime Overseer resources are the currencies and materials that drive progression: Gems for summons, Gold for upgrades, Trait Discs and Rerolls for traits, and Soul Crystals for evolution. Managing them well decides how fast your team grows.",
+      "why": "Why manage resources?",
       "whySteps": {
-        "step1Title": "Save Rare Resources",
-        "step1Description": "Keep Trait Discs and rerolls for long-term units",
-        "step2Title": "Pick the Right Targets",
-        "step2Description": "Reroll only units that already prove useful in waves",
-        "step3Title": "Avoid Early Waste",
-        "step3Description": "Stop chasing perfect traits before your main lineup is set"
+        "step1Title": "Spend Gems Wisely",
+        "step1Description": "Time summons and upgrades to build a balanced roster fast",
+        "step2Title": "Reroll at the Right Time",
+        "step2Description": "Save Trait Discs and rerolls for units that already clear waves",
+        "step3Title": "Farm Efficiently",
+        "step3Description": "Use the best farming routes to keep Gold and Soul Crystals flowing"
       },
       "featured": "Featured & Essential",
-      "all": "All Trait Guides"
+      "all": "All Resource Guides"
     },
-    "biomes": {
-      "title": "Anime Overseer Evolution",
-      "description": "Evolution materials, conditions, and priority guides for Anime Overseer units.",
-      "metaTitle": "Anime Overseer Evolution - Materials & Priority",
-      "metaDescription": "Learn how Anime Overseer evolution works, which materials to save, and which units to evolve first for harder waves and endless modes.",
-      "categoryLabel": "EVOLUTION",
-      "whatIs": "What is Evolution?",
-      "whatIsDescription": "Guides to Anime Overseer unit evolution, covering materials, conditions, upgrade timing, and which units deserve long-term evolution investment.",
-      "why": "Why plan evolution?",
+    "gameplay": {
+      "title": "Anime Overseer Gameplay",
+      "description": "Anime Overseer gameplay guides covering tower defense waves, upgrades, enemy pressure, and battle strategy.",
+      "metaTitle": "Anime Overseer Gameplay - Waves, Upgrades & Strategy",
+      "metaDescription": "Learn Anime Overseer gameplay with guides on tower defense waves, unit upgrades, enemy pressure, endless modes, and battle strategy for every stage.",
+      "categoryLabel": "GAMEPLAY",
+      "whatIs": "What is Gameplay?",
+      "whatIsDescription": "Anime Overseer gameplay is a Roblox anime tower defense loop: summon units, place them to block enemy waves, upgrade and evolve them mid-run, and survive escalating enemy pressure across stages and endless modes.",
+      "why": "Why learn gameplay?",
       "whySteps": {
-        "step1Title": "Save Materials",
-        "step1Description": "Hold Soul Crystals and Super Soul Crystals for the right units",
-        "step2Title": "Evolve Priority Units",
-        "step2Description": "Invest in units that carry harder waves and co-op runs",
-        "step3Title": "Test Before Committing",
-        "step3Description": "Compare clear speed and survival after evolving"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Evolution Guides"
-    },
-    "building": {
-      "title": "Anime Overseer Waves",
-      "description": "Wave defense, enemy pressure, endless modes, and battle preparation guides for Anime Overseer.",
-      "metaTitle": "Anime Overseer Waves - Defense & Endless Modes",
-      "metaDescription": "Master Anime Overseer waves with guides on enemy pressure, defense pacing, endless modes, and co-op preparation for every stage.",
-      "categoryLabel": "WAVES & MODES",
-      "whatIs": "What are Waves?",
-      "whatIsDescription": "Guides to Anime Overseer wave defense, enemy pressure, endless modes, and the team preparation needed to push through harder stages.",
-      "why": "Why study waves?",
-      "whySteps": {
-        "step1Title": "Read Enemy Pressure",
-        "step1Description": "Understand where runs fail and which waves are hardest",
-        "step2Title": "Prepare Your Lineup",
-        "step2Description": "Bring upgraded units and Gold for battle improvements",
+        "step1Title": "Read the Waves",
+        "step1Description": "Understand enemy pressure and where runs tend to fail",
+        "step2Title": "Upgrade at the Right Moment",
+        "step2Description": "Time Gold spending on upgrades to hold each wave",
         "step3Title": "Survive Longer",
-        "step3Description": "Use co-op and endless strategies for long sessions"
+        "step3Description": "Apply endless and co-op strategies to push through harder stages"
       },
       "featured": "Featured & Essential",
-      "all": "All Wave Guides"
+      "all": "All Gameplay Guides"
     },
-    "support": {
-      "title": "Anime Overseer Teams",
-      "description": "Best team builds, role splits, and F2P lineup guides for Anime Overseer.",
-      "metaTitle": "Anime Overseer Teams - Best Builds & F2P Lineups",
-      "metaDescription": "Build the best Anime Overseer teams with role splits for carry, AoE, boss, and support, plus F2P and Early Access lineup advice.",
-      "categoryLabel": "TEAMS",
-      "whatIs": "What are Teams?",
-      "whatIsDescription": "Guides to Anime Overseer team building, covering carry, AoE, boss, and support roles plus F2P and Early Access lineup ideas.",
-      "why": "Why plan teams?",
+    "release": {
+      "title": "Anime Overseer Release",
+      "description": "Anime Overseer release, Early Access, update, and patch note guides tracking the latest game changes.",
+      "metaTitle": "Anime Overseer Release - Early Access, Updates & Patch Notes",
+      "metaDescription": "Track Anime Overseer release info, Early Access status, new updates, and patch notes so you can plan progression around the latest game changes.",
+      "categoryLabel": "RELEASE",
+      "whatIs": "What is Release Info?",
+      "whatIsDescription": "Anime Overseer release info covers the game's Early Access status, entry options, new updates, and patch notes. Following it keeps you current on new units, balance changes, and content drops as the game grows.",
+      "why": "Why follow release info?",
       "whySteps": {
-        "step1Title": "Split Roles Clearly",
-        "step1Description": "Balance carry, AoE, boss, and support units",
-        "step2Title": "Build F2P Lineups",
-        "step2Description": "Use code rewards to form strong free-to-play teams",
-        "step3Title": "Scale Into Harder Modes",
-        "step3Description": "Adapt your team for endless and co-op content"
+        "step1Title": "Know the Access Status",
+        "step1Description": "Understand Early Access entry options and what unlocks as the game updates",
+        "step2Title": "Track New Updates",
+        "step2Description": "See what each update adds in units, modes, and balance changes",
+        "step3Title": "Plan Around Patch Notes",
+        "step3Description": "Adjust your roster and resource plans to match the latest changes"
       },
       "featured": "Featured & Essential",
-      "all": "All Team Guides"
+      "all": "All Release Guides"
     }
   }
 }

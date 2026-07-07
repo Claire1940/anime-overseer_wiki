@@ -1,1 +1,11 @@
-{}
+{
+  "nav": {
+    "codes": "Códigos",
+    "guide": "Guia",
+    "tierList": "Tier List",
+    "units": "Unidades",
+    "resources": "Recursos",
+    "gameplay": "Gameplay",
+    "release": "Lançamento"
+  }
+}

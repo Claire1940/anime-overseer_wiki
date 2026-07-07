@@ -1,0 +1,200 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Guia de Iniciantes do Anime Overseer: Passo a Passo e Dicas Pro",
+  description: "Domine o Anime Overseer com o nosso guia de iniciantes. Aprenda sobre códigos, evolução de unidades, farm de recursos e montagem de equipes neste RPG de tower defense do Roblox.",
+  category: "Guia",
+  image: "https://placehold.co/800x400/10b981/fff?text=Anime+Overseer+Beginner+Guide",
+  date: "2026-07-08",
+  author: "Equipe Wiki do Anime Overseer"
+}
+
+<Callout type="info" title="Guia Rápido">
+- **Guia de Iniciantes do Anime Overseer**: Foque em construir uma equipe equilibrada de unidades de anime para derrotar ondas de inimigos cada vez mais difíceis neste RPG do Roblox.
+- **Entrada no Acesso Antecipado**: Os jogadores podem entrar por meio de acesso pago ou esperando na **Câmara AFK** (AFK Chamber) para garantir sua vaga no jogo gratuitamente.
+- **Gerenciamento de Recursos**: Economize itens raros como **Super Cristais de Alma** (Super Soul Crystals) e **Rerolls de Traço** (Trait Rerolls) para unidades de tier S, em vez de gastá-los com personagens iniciais.
+- **Resgate de Códigos**: Use os códigos ativos imediatamente para garantir milhares de Gemas e Ouro para impulsionar seu progresso de invocação.
+- **Prioridade de Evolução**: Evolua apenas as unidades que servem como seus principais causadores de dano (carries) para maximizar o valor de seus materiais de evolução limitados.
+</Callout>
+
+<Section icon={Map} title="Primeiros Passos no Anime Overseer">
+
+O Anime Overseer é uma experiência estratégica de tower defense e RPG no Roblox, desenvolvida pela v2 studio. Atualmente em sua fase de Acesso Antecipado em 2026, o jogo exige que os jogadores montem um esquadrão de poderosas unidades inspiradas em animes para se defender contra ondas de inimigos. O ciclo principal de jogabilidade gira em torno de invocar unidades, melhorar seus atributos e evoluí-las para formas mais poderosas para enfrentar modos infinitos e desafios de alta dificuldade.
+
+**Destaques do Vídeo:**
+- **Revelação de Gameplay Inicial**: Uma olhada no sistema de invocação inicial e nas mecânicas básicas de defesa de ondas.
+- **Demonstração de Unidades**: Demonstrações visuais de como diferentes personagens de anime se comportam no campo de batalha.
+- **Navegação de Interface**: Um passo a passo pelos menus de inventário, gerenciamento de equipe e evolução.
+
+<YouTubeEmbed videoId="9GNQQ3yoJTM" title="I Played This NEW Anime Game Early And Its INSANE! Anime Overseer Roblox" />
+
+Para começar sua jornada, você deve primeiro navegar pelos requisitos de Acesso Antecipado. Ao contrário de muitos jogos do Roblox, o Anime Overseer frequentemente utiliza um sistema de Câmara AFK. Isso permite que jogadores dedicados ganhem acesso com o tempo se não quiserem pagar a taxa de entrada. Uma vez lá dentro, sua primeira prioridade deve ser resgatar todos os códigos disponíveis para construir uma equipe inicial funcional.
+
+<Callout type="tip" title="Dica Pro: A Câmara AFK">
+Se você estiver jogando como um usuário Gratuito (F2P), utilize a Câmara AFK durante as horas de folga. Isso garante que você ganhe acesso ao jogo principal sem gastar Robux, permitindo que economize sua moeda para invocações no jogo.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Códigos Ativos e Recompensas Iniciais">
+
+A maneira mais rápida de progredir no **guia de iniciantes do anime overseer** é aproveitar a generosidade dos desenvolvedores por meio do sistema de códigos. Os códigos fornecem moedas essenciais como Gemas e Ouro, além de itens especializados como Discos de Traço (Trait Discs) e Cristais de Alma (Soul Crystals). Essas recompensas são vitais para pular o lento progresso do início do jogo.
+
+| Código | Recompensas Principais | Melhor Caso de Uso |
+| :--- | :--- | :--- |
+| **rerollcode** | 75 Discos de Traço, 75 Cristais de Alma | Otimização de unidades de tier alto |
+| **qolfixesforyouall!** | 2.500 Gemas, 2.500 de Ouro | Invocações e melhorias iniciais |
+| **likethegame!** | 3.000 Gemas, 50 Discos de Traço | Acúmulo geral de recursos |
+| **AXISTHEGOAT** | 15 Rerolls de Disco, 10 Cristais de Alma | Refinar traços de unidades específicas |
+| **500LIKES** | 1.000 Gemas, 2.000 de Ouro | Invocações rápidas de unidades |
+| **BUGMAN** | 10 Discos de Traço, 2.000 de Ouro | Utilidade inicial e subida de nível |
+| **weresoback!** | 2.000 Gemas, 5.000 de Ouro | Melhorias na equipe principal |
+| **wunbosavedtheday!** | 50 Rerolls de Traço | Busca de traços no fim do jogo |
+
+<Callout type="warning" title="Nota sobre Resgate">
+Os códigos no Anime Overseer diferenciam maiúsculas de minúsculas e podem expirar após grandes atualizações. Sempre verifique o Discord oficial ou o grupo do Roblox da v2 studio para obter os lançamentos mais recentes.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Tier List de Unidades e Composição de Equipe">
+
+Compreender as funções das unidades é fundamental para sobreviver às ondas avançadas. As unidades geralmente são categorizadas pelo tipo de dano (Dano em Área vs. Alvo Único) e por sua utilidade (Lentidão, Buffs ou Atordoamentos). No meta atual de 2026, uma equipe equilibrada é muito mais eficaz do que uma composta puramente por unidades de alta raridade sem sinergia.
+
+<CardGrid cols={3}>
+  <Card title="Tier S: Os Carries">
+    - **Alto Limpe de Ondas**: Essencial para derrotar grupos.
+    - **Melhor Retorno de Upgrade**: Escala massivamente com Ouro.
+    - **Alvos de Evolução**: Prioridade para Cristais de Alma.
+  </Card>
+  <Card title="Tier A: Suportes Confiáveis">
+    - **Foco em Utilidade**: Fornece lentidão ou atordoamentos.
+    - **Custo-Benefício**: Forte desempenho por pouco Ouro.
+    - **Preenchimento de Equipe**: Estabiliza o meio do jogo.
+  </Card>
+  <Card title="Tier B: Progressão Inicial">
+    - **Fácil para Iniciantes**: Fácil de invocar e usar.
+    - **Escalonamento Limitado**: Substituível no final do jogo.
+    - **Baixo Risco**: Bom para testar novos mapas.
+  </Card>
+</CardGrid>
+
+Ao montar sua primeira equipe, foque em uma estratégia de "Carry Principal". Invista a maior parte do seu Ouro de batalha em uma ou duas unidades poderosas que possam lidar com a maior parte dos inimigos, enquanto usa unidades mais baratas para conter quaisquer "vazamentos" que passem pela sua defesa principal.
+
+| Função da Unidade | Função Principal | Nível de Prioridade |
+| :--- | :--- | :--- |
+| **DPS Principal** | Dano massivo em área para limpar ondas | **Altíssimo** |
+| **Matador de Chefes** | Alto DPS de alvo único para Onda 10+ | **Alto** |
+| **Suporte** | Diminuir velocidade dos inimigos ou aumentar dano aliado | **Médio** |
+| **Preenchimento** | Unidades baratas para bloquear vazamentos iniciais | **Baixo** |
+
+<Callout type="success" title="Posicionamento Estratégico">
+Sempre posicione suas unidades de dano em área mais fortes em "esquinas" ou "curvas" do mapa. Isso maximiza o tempo que elas passam atacando os inimigos, pois eles passam pelo alcance da unidade várias vezes.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Guia de Progressão Passo a Passo">
+
+Seguir um caminho estruturado evitará que você desperdice recursos. Muitos novos jogadores cometem o erro de distribuir suas melhorias de forma muito rasa entre várias unidades fracas.
+
+<Steps>
+  <Step num="1" title="Invocação Inicial">
+    Use suas primeiras 5.000+ Gemas obtidas dos códigos para realizar invocações múltiplas. Tente conseguir pelo menos uma unidade Épica ou Lendária para atuar como seu causador de dano principal.
+  </Step>
+  <Step num="2" title="Avanço de Ondas">
+    Entre nos estágios iniciais e foque em concluir o maior número de ondas possível. Preste atenção em qual onda você costuma falhar — isso indica onde sua equipe precisa melhorar.
+  </Step>
+  <Step num="3" title="Alocação de Ouro">
+    Durante a batalha, priorize melhorar seu carry principal ao nível máximo antes de colocar muitas unidades de nível 1. Uma única unidade de nível 5 costuma ser mais forte do que cinco unidades de nível 1.
+  </Step>
+  <Step num="4" title="Otimização de Traços">
+    Assim que tiver uma unidade que planeja manter a longo prazo, use seus **Discos de Traço** e **Rerolls**. Procure por traços que aumentem o Dano, Alcance ou Velocidade de Ataque.
+  </Step>
+  <Step num="5" title="Farm de Recursos">
+    Participe de modos de jogo especializados ou partidas cooperativas para farmar Ouro e Gemas. Use-os para melhorar ainda mais sua equipe e se preparar para a evolução.
+  </Step>
+</Steps>
+
+</Section>
+
+<Section icon={Sparkles} title="Farm de Recursos e Traços">
+
+Os recursos no Anime Overseer são divididos em moedas comuns e materiais raros de progressão. Gerenciar esses itens de forma eficaz é a diferença entre um jogador travado e um defensor de alto nível.
+
+| Recurso | Melhor Uso | Prioridade de Gasto |
+| :--- | :--- | :--- |
+| **Gemas** | Invocar novas unidades nos banners | **Alta** |
+| **Ouro** | Melhorar unidades durante a batalha | **Alta** |
+| **Discos de Traço** | Mudar ou melhorar traços de unidades | **Guardar para Tier S** |
+| **Cristais de Alma** | Necessários para a evolução de unidades | **Guardar para Tier S** |
+| **Fragmentos de Relíquia** | Progressão avançada e equipamentos | **Fim de jogo** |
+| **Comida (Carne/Onigiri)** | Subir o nível das unidades no menu | **Média** |
+
+Os **Traços** são modificadores passivos que podem alterar significativamente o desempenho de uma unidade. Como os Rerolls de Traço são limitados, você nunca deve usá-los em unidades de "Tier B" ou "Tier C". Espere até ter uma unidade do "Meta" antes de tentar rolar para obter atributos perfeitos.
+
+<Checklist
+  id="farming-goals"
+  title="Lista de Tarefas de Farm Diário:"
+  items={[
+    "Resgatar quaisquer novos códigos diários ou de metas alcançadas",
+    "Concluir pelo menos 3 partidas cooperativas para obter bônus de Ouro",
+    "Guardar todos os Super Cristais de Alma para evoluções Míticas",
+    "Verificar a Câmara AFK se o acesso estiver restrito",
+    "Testar novos posicionamentos de unidades no Modo Infinito"
+  ]}
+/>
+
+<Callout type="tip" title="Dica de Recurso">
+Se você estiver com pouco Ouro, foque em mapas com caminhos longos e sinuosos. Eles geralmente são mais fáceis de defender, permitindo que você alcance ondas mais altas e ganhe mais moedas por partida.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Evolução e Táticas Avançadas">
+
+A evolução é o passo final no **guia de iniciantes do anime overseer**. Evoluir uma unidade não apenas aumenta seus atributos brutos; muitas vezes desbloqueia novas habilidades, maiores alcances de ataque e um escalonamento superior. No entanto, a evolução requer um investimento significativo de Cristais de Alma e itens específicos de comida.
+
+**Requisitos de Evolução:**
+1. **Nível Máximo**: A unidade geralmente precisa atingir um limite de nível específico.
+2. **Materiais**: Uma combinação de Cristais de Alma, Super Cristais de Alma e Ouro.
+3. **Itens Específicos**: Algumas unidades exigem drops exclusivos, como Fragmentos de Relíquia ou itens especiais de eventos.
+
+<Callout type="warning" title="Aviso sobre Evolução">
+Quando você evolui uma unidade, o custo de implantação dela em batalha pode aumentar. Certifique-se de que sua defesa no início do jogo seja forte o suficiente para suportar o custo mais alto de sua nova potência evoluída.
+</Callout>
+
+### Estratégia Avançada: Sinergia Cooperativa
+Jogar com amigos ou membros da comunidade por meio do Discord oficial é altamente recomendado. No modo cooperativo, os jogadores podem especializar suas funções. Um jogador pode focar em unidades de "Economia" ou "Lentidão", enquanto o outro foca em "Dano Bruto". Essa sinergia permite que as equipes avancem muito mais no Modo Infinito do que um jogador solo conseguiria.
+
+</Section>
+
+<Section icon={Swords} title="Perguntas Frequentes">
+
+<FAQ items={[
+  {
+    question: "Como faço para entrar no jogo se ele diz Acesso Antecipado?",
+    answer: "Você pode pagar a taxa de entrada em Robux listada na página do jogo no Roblox ou entrar na Câmara AFK. Permanecer na Câmara AFK eventualmente concederá a você acesso ao jogo principal de graça."
+  },
+  {
+    question: "Qual é o melhor uso para as Gemas no Anime Overseer?",
+    answer: "As Gemas devem ser usadas exclusivamente para invocar unidades. É melhor guardá-las até que um banner apresente um personagem de Tier S que se adeque às necessidades atuais da sua equipe."
+  },
+  {
+    question: "Por que não consigo resgatar um código específico?",
+    answer: "Os códigos podem falhar se estiverem expirados, se já tiverem sido resgatados ou se forem digitados com maiúsculas e minúsculas incorretas. Verifique novamente a lista de códigos e certifique-se de não tê-lo usado antes."
+  },
+  {
+    question: "Quando devo começar a evoluir minhas unidades?",
+    answer: "Comece o processo de evolução apenas quando tiver uma equipe estável que consiga limpar as ondas do meio do jogo. A evolução é um processo que consome muitos recursos e deve ser reservada para as suas melhores unidades de dano (carries)."
+  }
+]} />
+
+</Section>

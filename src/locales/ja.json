@@ -1,1 +1,11 @@
-{}
+{
+  "nav": {
+    "codes": "コード",
+    "guide": "ガイド",
+    "tierList": "Tier List",
+    "units": "ユニット",
+    "resources": "リソース",
+    "gameplay": "ゲームプレイ",
+    "release": "リリース"
+  }
+}
