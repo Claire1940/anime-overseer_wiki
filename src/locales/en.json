@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "Anime Overseer Wiki - Codes, Units & Tier List",
+      "description": "Anime Overseer Wiki covers codes, units, tier list, evolution, resources, waves, best teams, and beginner tips for the Roblox anime tower defense game.",
+      "keywords": "Anime Overseer, Roblox, codes, units, tier list, evolution, best team",
+      "ogTitle": "Anime Overseer Wiki - Codes, Units & Tier List",
+      "ogDescription": "Anime Overseer Wiki covers codes, units, tier list, evolution, resources, waves, best teams, and beginner tips for the Roblox anime tower defense game.",
+      "twitterTitle": "Anime Overseer Wiki - Codes, Units & Tier List",
+      "twitterDescription": "Anime Overseer Wiki covers codes, units, tier list, evolution, and best teams for the Roblox anime tower defense game."
     }
   },
   "nav": {
@@ -34,27 +34,27 @@
     "articlesComingSoon": "Articles coming soon"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Anime Tower Defense RPG",
+    "title": "Anime Overseer Wiki",
+    "description": "Build your anime squad, fight enemy waves, upgrade units, evolve fighters, farm resources, and use codes to speed up early Roblox progression.",
+    "getFreeCodesCTA": "Get Free Codes",
+    "playOnRobloxCTA": "Play on Roblox",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "15.4K+",
+        "label": "Total Visits"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "276",
+        "label": "Favorites"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "11",
+        "label": "Active Codes"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "Early Access",
+        "label": "Access Status"
       }
     }
   },
@@ -785,26 +785,25 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
+    "title": "Ready to Play Anime Overseer?",
+    "description": "Join the Anime Overseer community on Discord for codes, updates, tier lists, and team-building tips!",
     "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "joinGame": "Play on Roblox"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "Anime Overseer Wiki",
+    "description": "Your complete resource hub for Anime Overseer codes, units, tier list, evolution, waves, and best teams on Roblox.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
     "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "roblox": "Roblox Game",
+    "youtube": "YouTube",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2026 Anime Overseer Wiki. Not affiliated with the developers of Anime Overseer or Roblox Corporation.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {

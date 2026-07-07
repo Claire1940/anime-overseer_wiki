@@ -37,7 +37,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   // 启用静态渲染：必须在调用 next-intl 服务端函数前设置请求 locale
   setRequestLocale(locale);
   const siteUrl =
-    process.env.NEXT_PUBLIC_SITE_URL || "https://www.lucidblocks.wiki";
+    process.env.NEXT_PUBLIC_SITE_URL || "https://www.anime-overseer.wiki";
 
   // 获取 SEO 翻译
   const t = await getTranslations("seo.home");
@@ -60,7 +60,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       type: "website",
       locale: locale,
       url: locale === "en" ? siteUrl : `${siteUrl}/${locale}`,
-      siteName: "Lucid Blocks Wiki",
+      siteName: "Anime Overseer Wiki",
       title: t("ogTitle"),
       description: t("ogDescription"),
       images: [
@@ -68,7 +68,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
           url: `${siteUrl}/images/hero.webp`,
           width: 1920,
           height: 1080,
-          alt: "Lucid Blocks - Surreal Voxel Sandbox",
+          alt: "Anime Overseer - Roblox Anime Tower Defense",
         },
       ],
     },
@@ -77,7 +77,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       title: t("twitterTitle"),
       description: t("twitterDescription"),
       images: [`${siteUrl}/images/hero.webp`],
-      creator: "@lucidblocks",
     },
     icons: {
       icon: [
@@ -111,6 +110,33 @@ export default async function LocaleLayout({ children, params }: Props) {
   const messages = await getMessages();
   const navPreviewData = await getNavPreviewData(locale as Language);
 
+  // 站点级 Organization JSON-LD（所有页面统一输出）
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.anime-overseer.wiki'
+  const organizationLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    name: 'Anime Overseer Wiki',
+    alternateName: 'Anime Overseer',
+    url: siteUrl,
+    logo: {
+      '@type': 'ImageObject',
+      url: `${siteUrl}/android-chrome-512x512.png`,
+      width: 512,
+      height: 512,
+    },
+    image: {
+      '@type': 'ImageObject',
+      url: `${siteUrl}/images/hero.webp`,
+      width: 1920,
+      height: 1080,
+    },
+    sameAs: [
+      'https://www.roblox.com/games/119710171449943/Anime-Overseer',
+      'https://discord.com/invite/animeoverseer',
+      'https://www.youtube.com/watch?v=9GNQQ3yoJTM',
+    ],
+  }
+
 	return (
 		<html lang={locale} className={`${geistSans.variable} ${geistMono.variable}`} suppressHydrationWarning>
 			<head>
@@ -123,6 +149,10 @@ export default async function LocaleLayout({ children, params }: Props) {
 				/>
 			</head>
 			<body suppressHydrationWarning className="antialiased">
+				<script
+					type="application/ld+json"
+					dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationLd) }}
+				/>
 				<Analytics />
 				<NextIntlClientProvider messages={messages}>
 					<ClientBody navPreviewData={navPreviewData}>{children}</ClientBody>
