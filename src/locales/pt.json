@@ -1,4 +1,15 @@
 {
+  "seo": {
+    "home": {
+      "title": "Wiki de Anime Overseer - Códigos, Unidades e Tier List",
+      "description": "A Wiki de Anime Overseer cobre códigos, unidades, tier list, evolução, recursos, ondas, melhores times e dicas para iniciantes do jogo de tower defense de anime no Roblox.",
+      "keywords": "Anime Overseer, Roblox, códigos, unidades, tier list, evolução, melhor time",
+      "ogTitle": "Wiki de Anime Overseer - Códigos, Unidades e Tier List",
+      "ogDescription": "A Wiki de Anime Overseer cobre códigos, unidades, tier list, evolução, recursos, ondas, melhores times e dicas para iniciantes do jogo de tower defense de anime no Roblox.",
+      "twitterTitle": "Wiki de Anime Overseer - Códigos, Unidades e Tier List",
+      "twitterDescription": "A Wiki de Anime Overseer cobre códigos, unidades, tier list, evolução e melhores times para o jogo de tower defense de anime no Roblox."
+    }
+  },
   "nav": {
     "codes": "Códigos",
     "guide": "Guia",
@@ -7,5 +18,782 @@
     "resources": "Recursos",
     "gameplay": "Gameplay",
     "release": "Lançamento"
+  },
+  "common": {
+    "home": "Início",
+    "more": "Mais",
+    "playNow": "Jogar no Roblox",
+    "switchLanguage": "Mudar Idioma",
+    "switchTheme": "Mudar Tema",
+    "lightMode": "Modo Claro",
+    "darkMode": "Modo Escuro",
+    "notFound": "Página Não Encontrada",
+    "notFoundDescription": "A página que você está procurando não existe.",
+    "backToHome": "Voltar para o Início",
+    "relatedArticles": "Artigos Relacionados",
+    "readMore": "Ler Mais",
+    "articlesComingSoon": "Artigos em breve"
+  },
+  "hero": {
+    "badge": "RPG de Tower Defense de Anime",
+    "title": "Wiki de Anime Overseer",
+    "description": "Monte seu esquadrão de anime, lute contra ondas de inimigos, melhore unidades, evolua lutadores, farme recursos e use códigos para acelerar o progresso inicial no Roblox.",
+    "getFreeCodesCTA": "Obter Códigos Gratuitos",
+    "playOnRobloxCTA": "Jogar no Roblox",
+    "stats": {
+      "stat1": {
+        "value": "15.4K+",
+        "label": "Total de Visitas"
+      },
+      "stat2": {
+        "value": "276",
+        "label": "Favoritos"
+      },
+      "stat3": {
+        "value": "11",
+        "label": "Códigos Ativos"
+      },
+      "stat4": {
+        "value": "Acesso Antecipado",
+        "label": "Status de Acesso"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Jogabilidade de Anime Overseer",
+    "description": "Monte seu esquadrão de anime, enfrente ondas de inimigos, melhore e evolua unidades e sobreviva aos modos infinitos neste RPG de tower defense de anime no Roblox."
+  },
+  "tools": {
+    "title": "Anime Overseer",
+    "titleHighlight": "Guias",
+    "subtitle": "Tudo o que você precisa para codes, unidades, tier lists, evolução, farming, ondas e atualizações em Anime Overseer.",
+    "cards": [
+      {
+        "icon": "Ticket",
+        "title": "Anime Overseer Codes",
+        "description": "Codes ativos, recompensas e status de resgate"
+      },
+      {
+        "icon": "Compass",
+        "title": "Guia de Iniciante de Anime Overseer",
+        "description": "Primeiro time, ondas, melhorias e conceitos básicos de evolução"
+      },
+      {
+        "icon": "Trophy",
+        "title": "Tier List de Unidades de Anime Overseer",
+        "description": "Rankings S, A, B, C por limpeza de ondas e valor"
+      },
+      {
+        "icon": "Wand2",
+        "title": "Guia de Traits de Anime Overseer",
+        "description": "Trait Discs, rerolls e o melhor momento para reroll"
+      },
+      {
+        "icon": "Zap",
+        "title": "Guia de Evolução de Anime Overseer",
+        "description": "Evolua unidades prioritárias e economize materiais raros"
+      },
+      {
+        "icon": "Gem",
+        "title": "Farming de Gems e Gold em Anime Overseer",
+        "description": "Prioridade de gastos para Gems, Gold e recompensas de codes"
+      },
+      {
+        "icon": "Swords",
+        "title": "Modos de Jogo e Ondas em Anime Overseer",
+        "description": "Defesa de ondas, co-op e preparação para o modo infinito"
+      },
+      {
+        "icon": "Bell",
+        "title": "Atualizações e Discord de Anime Overseer",
+        "description": "Status de Acesso Antecipado, codes e hub da comunidade"
+      }
+    ]
+  },
+  "modules": {
+    "animeOverseerCodes": {
+      "title": "Códigos de Anime Overseer",
+      "eyebrow": "Recompensas Grátis",
+      "intro": "Os codes de Anime Overseer são o impulso inicial mais rápido para invocar unidades, melhorar seu time e economizar recursos de reroll para personagens mais fortes. Novos lançamentos geralmente estão atrelados a atualizações, curtidas, correções, marcos de lançamento e anúncios oficiais da comunidade.",
+      "codes": [
+        {
+          "code": "rerollcode",
+          "status": "active",
+          "rewards": [
+            "75 Trait Discs",
+            "75 Super Soul Crystals",
+            "75 Souls"
+          ],
+          "bestFor": "Estoque de recursos de trait e soul"
+        },
+        {
+          "code": "qolfixesforyouall!",
+          "status": "active",
+          "rewards": [
+            "2.500 Gemas",
+            "2.500 Ouro",
+            "25 Trait Discs",
+            "25 Super Soul Crystals"
+          ],
+          "bestFor": "Invocações iniciais, upgrades e preparação de traits"
+        },
+        {
+          "code": "likethegame!",
+          "status": "ativo",
+          "rewards": [
+            "3.000 Gemas",
+            "3.000 Ouro",
+            "50 Trait Discs",
+            "50 Carnes",
+            "50 Onigiri"
+          ],
+          "bestFor": "Grande reforço de recursos para o início do jogo"
+        },
+        {
+          "code": "AXISTHEGOAT",
+          "status": "ativo",
+          "rewards": [
+            "15 Disc Rerolls",
+            "10 Soul Crystals",
+            "10 Carnes",
+            "10 Batatas",
+            "100 Onigiri"
+          ],
+          "bestFor": "Rerolls e reserva de recursos de comida"
+        },
+        {
+          "code": "500LIKES",
+          "status": "ativo",
+          "rewards": [
+            "1.000 Gemas",
+            "2.000 Ouro"
+          ],
+          "bestFor": "Gastos em invocações e upgrades"
+        },
+        {
+          "code": "BUGMAN",
+          "status": "ativo",
+          "rewards": [
+            "10 Óculos Especiais",
+            "10 Trait Discs",
+            "2.000 Ouro",
+            "1.000 Gemas"
+          ],
+          "bestFor": "Recompensas de utilidade variadas e upgrades para iniciantes"
+        },
+        {
+          "code": "THANKYOUFOR1KCCU",
+          "status": "ativo",
+          "rewards": [
+            "1.000 Gemas",
+            "1.000 Moedas",
+            "50 Relic Shards",
+            "5 Onigiri"
+          ],
+          "bestFor": "Coleta de recompensas de metas"
+        },
+        {
+          "code": "THX4500",
+          "status": "ativo",
+          "rewards": [
+            "1.000 Gemas",
+            "25 Discos de Traço",
+            "25 Super Cristais de Alma",
+            "25 Cristais de Alma"
+          ],
+          "bestFor": "Progressão de traço e alma"
+        },
+        {
+          "code": "THX4200",
+          "status": "ativo",
+          "rewards": [
+            "2.000 Moedas",
+            "1.000 Gemas",
+            "50 Carnes"
+          ],
+          "bestFor": "Suporte de moedas e comida"
+        },
+        {
+          "code": "weresoback!",
+          "status": "ativo",
+          "rewards": [
+            "2.000 Gemas",
+            "5.000 de Ouro"
+          ],
+          "bestFor": "Invocações e melhorias essenciais"
+        },
+        {
+          "code": "wunbosavedtheday!",
+          "status": "ativo",
+          "rewards": [
+            "50 Rerolls de Traço"
+          ],
+          "bestFor": "Economizar rerolls para unidades de longo prazo"
+        }
+      ],
+      "expired": "Nenhum código expirado de Anime Overseer está listado no momento.",
+      "howToTitle": "Como resgatar códigos de Anime Overseer",
+      "howToSteps": [
+        "Abra o Anime Overseer no Roblox e entre no jogo.",
+        "Procure pelo menu de resgate de códigos ou pelo ícone de configurações dentro do jogo.",
+        "Digite ou cole um código ativo de Anime Overseer exatamente como está escrito.",
+        "Confirme o resgate para reivindicar Gemas, Ouro, Discos de Traço e outras recompensas."
+      ]
+    },
+    "animeOverseerBeginnerGuide": {
+      "title": "Guia para Iniciantes de Anime Overseer",
+      "eyebrow": "Guia Inicial",
+      "intro": "Anime Overseer é um jogo de estratégia de anime e estilo tower-defense em Acesso Antecipado no Roblox. O objetivo principal é reunir uma equipe, lutar contra ondas de inimigos, melhorar suas unidades e evoluí-las para versões mais fortes para os modos mais difíceis.",
+      "steps": [
+        {
+          "title": "Entrar no Acesso Antecipado",
+          "description": "Anime Overseer está atualmente em Acesso Antecipado. Os jogadores podem acessá-lo por meio de entrada paga ou esperar na Câmara AFK para obter acesso.",
+          "tip": "Comece verificando a página oficial do Roblox antes de entrar, pois as regras do Acesso Antecipado podem afetar novos jogadores."
+        },
+        {
+          "title": "Monte sua primeira equipe",
+          "description": "Monte uma escalação inicial antes de se preocupar com unidades perfeitas. Uma equipe utilizável importa mais do que um único personagem raro no início.",
+          "tip": "Use as Gemas gratuitas de códigos para apoiar as primeiras invocações."
+        },
+        {
+          "title": "Lute contra ondas de inimigos",
+          "description": "A jogabilidade principal é a defesa de ondas: posicione ou use sua equipe para conter os inimigos e avançar pelas fases mais difíceis.",
+          "tip": "Observe qual onda encerra sua partida e, em seguida, faça melhorias focando nesse ponto fraco."
+        },
+        {
+          "title": "Melhore Unidades Durante a Progressão",
+          "description": "Ouro, Moedas e outras recompensas ajudam a fortalecer sua conta e a melhorar o desempenho das unidades ao longo do tempo.",
+          "tip": "Gaste recursos iniciais em unidades que aguentam mais de uma onda em vez de espalhar demais as melhorias."
+        },
+        {
+          "title": "Guarde Recursos Raros de Reroll",
+          "description": "Rerolls de Traits, Discos de Traits, Cristais de Alma e Super Cristais de Alma são recompensas valiosas de códigos.",
+          "tip": "Não desperdice rerolls raros em unidades que você espera substituir rapidamente."
+        },
+        {
+          "title": "Evolua Unidades Fortes",
+          "description": "A descrição oficial destaca a evolução de unidades como uma forma fundamental de desbloquear poderes mais fortes.",
+          "tip": "Invista recursos de evolução apenas em unidades que você planeja continuar usando."
+        },
+        {
+          "title": "Jogue com Amigos",
+          "description": "Anime Overseer suporta jogar junto com amigos em modos de jogo de aventura infinitos.",
+          "tip": "O modo cooperativo é útil para aprender as ondas de inimigos e testar composições de equipe."
+        }
+      ],
+      "quickTips": [
+        "Resgate todos os códigos ativos cedo para obter um forte impulso na primeira sessão.",
+        "Uma equipe equilibrada limpa mais ondas do que um único carry sobrecarregado.",
+        "Guarde Rerolls de Traits e Cristais de Alma para as unidades que você vai manter.",
+        "Verifique o Discord oficial após metas alcançadas e atualizações para novos códigos."
+      ]
+    },
+    "animeOverseerUnitsTierList": {
+      "title": "Tier List de Unidades do Anime Overseer",
+      "eyebrow": "Ranking de Unidades",
+      "intro": "Anime Overseer é estruturado em torno de coletar, melhorar e evoluir unidades para sobreviver a ondas de inimigos. Para a progressão inicial, as melhores unidades são aquelas que limpam ondas de forma eficiente, escalam bem com melhorias e continuam úteis após o investimento em evolução.",
+      "tiers": [
+        {
+          "tier": "S",
+          "label": "Melhores Unidades Carry",
+          "role": "Carry de dano principal",
+          "basis": [
+            "Forte valor de limpeza de ondas",
+            "Alto retorno de melhorias",
+            "Bom alvo de evolução a longo prazo",
+            "Útil em modos mais difíceis ou infinitos"
+          ],
+          "useWhen": "Monte sua equipe em torno dessas unidades primeiro e poupe recursos raros de reroll para elas.",
+          "priority": "mais alto"
+        },
+        {
+          "tier": "A",
+          "label": "Unidades Principais Confiáveis",
+          "role": "Suporte principal da equipe ou DPS secundário",
+          "basis": [
+            "Dano estável",
+            "Boa relação custo-poder",
+            "Funciona bem antes de obter traits perfeitos",
+            "Útil ao longo da progressão inicial e intermediária"
+          ],
+          "useWhen": "Use estas para preencher sua equipe principal enquanto espera por invocações mais fortes.",
+          "priority": "alto"
+        },
+        {
+          "tier": "B",
+          "label": "Unidades de Progressão Inicial",
+          "role": "Unidades iniciais e de preenchimento",
+          "basis": [
+            "Útil para as primeiras waves",
+            "Menor risco de investimento",
+            "Bom o suficiente antes de invocações raras",
+            "Pode ser substituído mais tarde"
+          ],
+          "useWhen": "Use estes para limpezas iniciais, mas evite gastar rerolls premium muito cedo.",
+          "priority": "médio"
+        },
+        {
+          "tier": "C",
+          "label": "Unidades Substituíveis",
+          "role": "Preenchedor de slot temporário",
+          "basis": [
+            "Escalonamento limitado",
+            "Menor valor de upgrade",
+            "Prioridade de evolução fraca",
+            "Não é ideal para investimento em traits raras"
+          ],
+          "useWhen": "Use apenas até conseguir opções melhores de wave-clear ou carry.",
+          "priority": "baixo"
+        },
+        {
+          "tier": "Utilidade",
+          "label": "Alvos de Traits e Recursos",
+          "role": "Unidades que valem a pena testar antes de dar reroll",
+          "basis": [
+            "Beneficia-se claramente de Trait Rerolls",
+            "Faz bom uso de Trait Discs",
+            "Pode justificar o investimento de Soul Crystals",
+            "Tem um papel claro no time"
+          ],
+          "useWhen": "Teste o desempenho primeiro, depois gaste rerolls apenas se a unidade continuar no seu time.",
+          "priority": "situacional"
+        }
+      ]
+    },
+    "animeOverseerTraitsGuide": {
+      "title": "Guia de Traits de Anime Overseer",
+      "eyebrow": "Traits",
+      "intro": "Traits são uma das decisões de upgrade mais importantes em Anime Overseer porque vários codes ativos dão Trait Discs, Disc Rerolls e Trait Rerolls. A abordagem mais segura é economizar recursos de reroll premium para unidades que já se mostram úteis em waves, upgrades e planejamento de evolução.",
+      "cards": [
+        {
+          "name": "Trait Discs",
+          "type": "Recurso",
+          "description": "Usado para progressão relacionada a traits e preparação para reroll.",
+          "sources": [
+            "rerollcode",
+            "qolfixesforyouall!",
+            "likethegame!",
+            "BUGMAN",
+            "THX4500"
+          ],
+          "bestUse": "Guarde para unidades que você planeja continuar usando além das fases iniciais."
+        },
+        {
+          "name": "Trait Rerolls",
+          "type": "Recurso",
+          "description": "Usado para alterar ou melhorar uma trait de unidade.",
+          "sources": [
+            "wunbosavedtheday!"
+          ],
+          "bestUse": "Gaste em unidades de alto valor após testar seu dano, valor de posicionamento e escala de upgrade."
+        },
+        {
+          "name": "Rerolls de Disco",
+          "type": "Recurso",
+          "description": "Um tipo de recompensa de reroll vinculado à melhoria de traits.",
+          "sources": [
+            "AXISTHEGOAT"
+          ],
+          "bestUse": "Guarde para unidades mais fortes em vez de usá-los em unidades temporárias de preenchimento."
+        },
+        {
+          "name": "Cristais de Alma",
+          "type": "Recurso",
+          "description": "Um material de progressão concedido por códigos e conectado ao investimento em unidades mais fortes.",
+          "sources": [
+            "AXISTHEGOAT",
+            "THX4500"
+          ],
+          "bestUse": "Combine com unidades que valem o investimento de upgrade ou evolução a longo prazo."
+        },
+        {
+          "name": "Super Cristais de Alma",
+          "type": "Recurso",
+          "description": "Um material de alma de maior valor concedido por vários códigos ativos.",
+          "sources": [
+            "rerollcode",
+            "qolfixesforyouall!",
+            "THX4500"
+          ],
+          "bestUse": "Reserve para peças de equipe mais fortes em vez de substitutos de nível baixo."
+        },
+        {
+          "name": "Melhor Momento para Reroll",
+          "type": "Decisão",
+          "description": "Evita o desperdício de recursos raros de reroll no início.",
+          "sources": [
+            "loop de gameplay",
+            "pool de recompensas de códigos ativos"
+          ],
+          "bestUse": "Primeiro monte uma equipe estável, depois faça reroll de traits no seu melhor carry ou unidade evoluída de longo prazo."
+        },
+        {
+          "name": "Evite Desperdício Precoce",
+          "type": "Decisão",
+          "description": "Mantém materiais raros disponíveis para unidades melhores mais tarde.",
+          "sources": [
+            "pool de recompensas de códigos ativos"
+          ],
+          "bestUse": "Não busque traits perfeitas antes de saber quais unidades permanecerão na sua lineup principal."
+        }
+      ]
+    },
+    "animeOverseerEvolutionGuide": {
+      "title": "Guia de Evolução de Anime Overseer",
+      "eyebrow": "Progressão de Unidades",
+      "intro": "Anime Overseer é estruturado em torno de reunir uma equipe, lutar contra ondas de inimigos, fazer upgrade de unidades e evoluí-las para obter poderes mais fortes. A evolução deve ser tratada como um grande investimento para a conta, não algo para se apressar em todas as unidades iniciais.",
+      "steps": [
+        {
+          "title": "Monte uma equipe utilizável primeiro",
+          "description": "Comece preenchendo sua lineup com unidades que possam limpar de forma confiável as ondas iniciais de inimigos. Uma equipe equilibrada importa mais do que evoluir uma unidade aleatória cedo demais.",
+          "focus": "Base da equipe"
+        },
+        {
+          "title": "Faça upgrade antes de evoluir",
+          "description": "Use Ouro e recompensas de batalha para melhorar as unidades que você usa ativamente. A evolução tem mais valor quando a unidade base já faz parte da sua lineup principal.",
+          "focus": "Upgrades de unidade"
+        },
+        {
+          "title": "Economize materiais raros",
+          "description": "Não gaste Soul Crystals, Super Soul Crystals, Souls, Relic Shards ou itens de comida especiais casualmente. Essas recompensas aparecem em drops de códigos e é melhor guardá-las para unidades que você planeja manter.",
+          "focus": "Materiais de evolução"
+        },
+        {
+          "title": "Evolua unidades prioritárias",
+          "description": "Escolha unidades que ajudem em ondas mais difíceis, batalhas mais longas ou partidas co-op. A evolução é mais forte quando melhora uma unidade que já carrega seu time.",
+          "focus": "Roster principal"
+        },
+        {
+          "title": "Teste a unidade evoluída em ondas",
+          "description": "Após evoluir, coloque a unidade em batalhas reais e compare a velocidade de limpeza, sobrevivência e valor de upgrade. Continue investindo apenas se a unidade evoluída melhorar seu progresso nas fases.",
+          "focus": "Teste de batalha"
+        }
+      ],
+      "checklist": [
+        "Uma lineup principal estável já está limpando ondas",
+        "Gold, Soul Crystals e materiais de comida suficientes estão guardados",
+        "A unidade tem um papel claro de longo prazo no seu time",
+        "A evolução melhora o desempenho em ondas difíceis ou no modo endless"
+      ]
+    },
+    "animeOverseerGemsAndGoldFarming": {
+      "title": "Guia de Farm de Gems e Gold de Anime Overseer",
+      "eyebrow": "Recursos",
+      "intro": "Gems e Gold são os principais recursos iniciais que os jogadores procuram, pois auxiliam em summons, upgrades e no crescimento mais rápido do roster. As recompensas de códigos de Anime Overseer também incluem Trait Discs, Soul Crystals, Super Soul Crystals, itens de comida e Relic Shards, então o planejamento de recursos importa desde a primeira sessão.",
+      "resources": [
+        {
+          "resource": "Gems",
+          "bestUse": "Invocar unidades mais fortes",
+          "priority": "Alta",
+          "tip": "Use Gems quando estiver sentindo falta de opções fortes no time. Evite gastar todas as Gems antes de conferir os banners atuais ou recompensas de novas atualizações."
+        },
+        {
+          "resource": "Gold",
+          "bestUse": "Melhorar unidades e apoiar a progressão inicial",
+          "priority": "Alta",
+          "tip": "Gaste Gold em unidades que você realmente usa nas ondas. Mantenha uma reserva para poder melhorar unidades melhores após novos pulls."
+        },
+        {
+          "resource": "Trait Discs",
+          "bestUse": "Melhorar traits de unidades",
+          "priority": "Guardar",
+          "tip": "Use Trait Discs em unidades de longo prazo, não em unidades de preenchimento temporárias de início de jogo."
+        },
+        {
+          "resource": "Soul Crystals",
+          "bestUse": "Progressão avançada de unidades e planejamento de evolução",
+          "priority": "Guardar",
+          "tip": "Guarde Soul Crystals até saber quais unidades evoluídas se encaixam no seu time principal."
+        },
+        {
+          "resource": "Super Soul Crystals",
+          "bestUse": "Materiais de progressão de maior valor",
+          "priority": "Guardar",
+          "tip": "Trate Super Soul Crystals como materiais raros e evite gastá-los antes de escolher uma unidade principal."
+        },
+        {
+          "resource": "Souls",
+          "bestUse": "Crescimento de unidade e progressão relacionada à evolução",
+          "priority": "Guardar",
+          "tip": "Guarde Souls para unidades que permanecem úteis em ondas mais difíceis."
+        },
+        {
+          "resource": "Itens de Comida",
+          "bestUse": "Materiais de progressão de recompensas de códigos",
+          "priority": "Médio",
+          "tip": "Itens como Carne, Onigiri e Batata aparecem em drops de recompensa, então guarde-os até que um caminho de upgrade de unidade precise deles."
+        },
+        {
+          "resource": "Fragmentos de Relíquia",
+          "bestUse": "Progressão relacionada a relíquias",
+          "priority": "Guardar",
+          "tip": "Guarde Fragmentos de Relíquia para uma build que melhore sua limpeza de ondas ou desempenho a longo prazo."
+        }
+      ]
+    },
+    "animeOverseerGameModesAndWaves": {
+      "title": "Guia de Modos de Jogo e Ondas de Anime Overseer",
+      "eyebrow": "Modos de Batalha",
+      "intro": "Anime Overseer foca em combater ondas de inimigos com uma equipe de unidades de anime aprimoradas. A descrição oficial destaca a montagem de equipes, ondas, jogo cooperativo, modos de jogo de aventura infinitos, upgrades de unidades e evolução como o ciclo principal de jogabilidade.",
+      "faqs": [
+        {
+          "question": "Qual é o ciclo de batalha principal em Anime Overseer?",
+          "answer": "Reúna unidades, entre em batalhas, posicione ou use sua equipe contra ondas de inimigos, faça upgrade em suas unidades e avance para fases mais difíceis.",
+          "bestFor": "Novos jogadores aprendendo o que fazer primeiro"
+        },
+        {
+          "question": "Como os jogadores devem se preparar para ondas mais difíceis?",
+          "answer": "Traga unidades que você já aprimorou, mantenha Ouro pronto para melhorias de batalha e evite depender de apenas uma unidade forte. Ondas mais difíceis recompensam uma escalação completa mais forte.",
+          "bestFor": "Progressão do início ao meio do jogo"
+        },
+        {
+          "question": "Por que o co-op é importante em Anime Overseer?",
+          "answer": "Anime Overseer suporta jogar com amigos, o que ajuda os jogadores a lidarem com lutas mais longas e uma pressão de ondas mais exigente com múltiplas escalações trabalhando juntas.",
+          "bestFor": "Jogadores travados em conteúdos mais difíceis"
+        },
+        {
+          "question": "O que os jogadores devem fazer em modos do estilo infinito?",
+          "answer": "Use suas unidades aprimoradas mais fortes, guarde recursos para unidades que escalam bem com o tempo e teste se as unidades evoluídas melhoram seu poder de limpeza a longo prazo.",
+          "bestFor": "Farming de sessões longas"
+        },
+        {
+          "question": "Quando os jogadores devem mudar sua escalação?",
+          "answer": "Mude sua equipe quando as ondas demorarem muito para serem limpas, os inimigos passarem com muita frequência ou seus upgrades não gerarem mais um aumento claro de poder.",
+          "bestFor": "Otimização de equipe"
+        }
+      ]
+    },
+    "animeOverseerUpdatesAndDiscord": {
+      "title": "Guia de Atualizações e Discord de Anime Overseer",
+      "eyebrow": "Atualizações",
+      "intro": "Anime Overseer está listado no Roblox como um jogo de Acesso Antecipado com acesso pago ou acesso à AFK Chamber, e a descrição oficial direciona os jogadores para curtidas, atualizações, códigos, montagem de equipes, ondas, multijogador, upgrades e evolução. O servidor do Discord é o principal hub da comunidade para atualizações, eventos, sorteios, guias, códigos e ajuda aos jogadores.",
+      "entries": [
+        {
+          "label": "Acesso Antecipado",
+          "title": "Status de acesso ao jogo",
+          "description": "Anime Overseer está marcado como Acesso Antecipado no Roblox. A página do jogo afirma que os jogadores podem entrar por meio de acesso pago ou esperando na AFK Chamber.",
+          "action": "Verifique a página do jogo no Roblox antes de entrar."
+        },
+        {
+          "label": "Lançamento Completo",
+          "title": "Sinal de lançamento",
+          "description": "A descrição do Roblox diz que o lançamento completo está chegando em breve, tornando o acompanhamento de atualizações importante para novos jogadores e jogadores que estão retornando.",
+          "action": "Fique de olho na página oficial do Roblox e no Discord para anúncios de lançamento."
+        },
+        {
+          "label": "Códigos",
+          "title": "Caminho de anúncio de códigos",
+          "description": "A página do jogo pede aos jogadores que curtam o jogo para futuras atualizações e códigos. O servidor do Discord também se apresenta como um local para códigos e atualizações recentes.",
+          "action": "Verifique os anúncios do Discord e a página da comunidade do Roblox após marcos ou correções."
+        },
+        {
+          "label": "Comunidade",
+          "title": "Hub do Discord",
+          "description": "O servidor de Discord do Anime Overseer está listado para chat ativo, eventos, sorteios, guias, códigos, vazamentos e ajuda aos jogadores.",
+          "action": "Use o Discord para ajuda, conselhos sobre times e alertas de atualização."
+        },
+        {
+          "label": "Atualizações de Jogabilidade",
+          "title": "O que verificar após os patches",
+          "description": "Após as atualizações, os jogadores devem verificar novamente os upgrades de unidades, materiais de evolução, recompensas de códigos e dificuldade de waves, pois esses sistemas controlam a progressão.",
+          "action": "Atualize os planos de equipe após cada grande atualização."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Perguntas",
+    "titleHighlight": "Frequentes",
+    "subtitle": "Tudo o que você precisa saber sobre o Anime Overseer",
+    "questions": [
+      {
+        "question": "O que é Anime Overseer?",
+        "answer": "Anime Overseer é um RPG de tower defense de anime no Roblox em Acesso Antecipado. Você reúne uma equipe de unidades de anime, luta contra waves de inimigos, melhora unidades, evolui para formas mais fortes e usa códigos para uma progressão inicial mais rápida."
+      },
+      {
+        "question": "Como consigo códigos gratuitos do Anime Overseer?",
+        "answer": "Códigos ativos do Anime Overseer concedem Gems, Gold, Trait Discs, Soul Crystals, Super Soul Crystals, itens de comida e Trait Rerolls. Novos códigos estão vinculados a atualizações, curtidas, correções e metas, e são compartilhados no Discord oficial e na página da comunidade no Roblox."
+      },
+      {
+        "question": "Como acesso o Anime Overseer em Acesso Antecipado?",
+        "answer": "Anime Overseer está em Acesso Antecipado no Roblox. Você pode entrar através de acesso pago ou esperar na AFK Chamber para ganhar acesso. Sempre verifique a página oficial do jogo no Roblox para as regras de entrada atuais."
+      },
+      {
+        "question": "O Anime Overseer suporta co-op e multijogador?",
+        "answer": "Sim. O Anime Overseer permite jogar com amigos, o que ajuda em lutas mais longas, waves mais difíceis e modos de jogo infinitos e de aventura onde várias formações trabalham juntas."
+      },
+      {
+        "question": "Como evoluo unidades no Anime Overseer?",
+        "answer": "Para evoluir unidades no Anime Overseer, primeiro monte uma equipe estável, melhore as unidades que você usa ativamente e então gaste materiais raros como Soul Crystals e Super Soul Crystals apenas em unidades que planeja manter para waves mais difíceis e modos infinitos."
+      },
+      {
+        "question": "Onde posso jogar Anime Overseer?",
+        "answer": "Anime Overseer está disponível no Roblox. Você pode entrar pela página oficial do jogo no Roblox e seguir o Discord oficial para atualizações, códigos, eventos e guias da comunidade."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Pronto para jogar Anime Overseer?",
+    "description": "Junte-se à comunidade do Anime Overseer no Discord para códigos, atualizações, tier lists e dicas de montagem de equipes!",
+    "joinCommunity": "Juntar-se ao Discord",
+    "joinGame": "Jogar no Roblox"
+  },
+  "footer": {
+    "title": "Wiki do Anime Overseer",
+    "description": "Seu hub de recursos completo para códigos, unidades, tier list, evolução, waves e as melhores equipes do Anime Overseer no Roblox.",
+    "resources": "Recursos",
+    "community": "Comunidade",
+    "legal": "Jurídico",
+    "discord": "Discord",
+    "roblox": "Jogo no Roblox",
+    "youtube": "YouTube",
+    "about": "Sobre",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço",
+    "copyrightNotice": "Direitos Autorais",
+    "copyright": "© 2026 Anime Overseer Wiki. Não afiliado aos desenvolvedores de Anime Overseer ou à Roblox Corporation.",
+    "disclaimer": "Site de recursos não oficial feito por fãs."
+  },
+  "pages": {
+    "codes": {
+      "title": "Códigos de Anime Overseer",
+      "description": "Códigos ativos de Anime Overseer para Gems, Gold, Trait Discs, Soul Crystals e mais recompensas de progressão gratuitas.",
+      "metaTitle": "Códigos de Anime Overseer - Gems, Gold e Recompensas Grátis",
+      "metaDescription": "Resgate códigos ativos de Anime Overseer para obter Gems, Gold, Trait Discs, Soul Crystals e rerolls grátis para acelerar sua progressão no Acesso Antecipado.",
+      "categoryLabel": "RESGATAR CÓDIGOS",
+      "whatIs": "O que são Códigos?",
+      "whatIsDescription": "Os códigos de Anime Overseer são sequências resgatáveis lançadas pelos desenvolvedores que concedem Gems, Gold, Trait Discs, Soul Crystals, Disc Rerolls e itens de comida grátis. Resgatá-los é a maneira mais rápida de financiar summons, upgrades e a preparação de traits sem precisar de grinding.",
+      "why": "Por que resgatar códigos?",
+      "whySteps": {
+        "step1Title": "Resgate Recursos Grátis",
+        "step1Description": "Transforme códigos ativos em Gems, Gold, Trait Discs e Soul Crystals instantaneamente",
+        "step2Title": "Acelere o Progresso Inicial",
+        "step2Description": "Use as recompensas dos códigos para invocar unidades iniciais e financiar upgrades iniciais",
+        "step3Title": "Acumule Materiais Raros",
+        "step3Description": "Guarde Trait Discs e Soul Crystals premium para suas unidades carry mais fortes"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Códigos"
+    },
+    "guide": {
+      "title": "Guias de Anime Overseer",
+      "description": "Guias completos de Anime Overseer cobrindo como jogar, configuração para iniciantes, progressão e estratégias avançadas.",
+      "metaTitle": "Guias de Anime Overseer - Estratégias de Iniciante a Avançado",
+      "metaDescription": "Domine o Anime Overseer com guias sobre como jogar, configuração para iniciantes, caminhos de progressão, dicas e estratégias avançadas de equipe para o jogo de tower defense de anime no Roblox.",
+      "categoryLabel": "GUIAS",
+      "whatIs": "O que são Guias?",
+      "whatIsDescription": "Os guias de Anime Overseer orientam você por todo o fluxo do jogo, desde o seu primeiro summon e defesa de waves até a progressão a longo prazo, planejamento de evolução e táticas avançadas para conteúdos mais difíceis.",
+      "why": "Por que ler guias?",
+      "whySteps": {
+        "step1Title": "Aprenda as Mecânicas Principais",
+        "step1Description": "Entenda summons, waves, upgrades e evolução antes de gastar recursos",
+        "step2Title": "Progrida Mais Rápido",
+        "step2Description": "Siga caminhos claros, desde a configuração de iniciante até um elenco estável capaz de limpar waves",
+        "step3Title": "Domine o Jogo Avançado",
+        "step3Description": "Desenvolva táticas para modos infinitos, co-op e waves de alta pressão"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Guias"
+    },
+    "tier-list": {
+      "title": "Tier List de Anime Overseer",
+      "description": "Tier lists de Anime Overseer classificando as melhores unidades e equipes por dano, limpeza de waves, dano em chefes e valor.",
+      "metaTitle": "Tier List de Anime Overseer - Melhores Unidades e Equipes",
+      "metaDescription": "Veja as melhores unidades e equipes de Anime Overseer classificadas por dano, limpeza de waves, dano em chefes e valor para montar a formação mais forte para cada modo.",
+      "categoryLabel": "TIER LIST",
+      "whatIs": "O que é a Tier List?",
+      "whatIsDescription": "A tier list de Anime Overseer classifica unidades e equipes por produção de dano, velocidade de limpeza de waves, desempenho contra chefes e valor geral, para que você possa ver quais lutadores merecem suas Gems, upgrades e materiais de evolução.",
+      "why": "Por que usar a tier list?",
+      "whySteps": {
+        "step1Title": "Encontre as Unidades Mais Fortes",
+        "step1Description": "Veja quais unidades lideram em dano, limpeza de ondas e dano a chefes",
+        "step2Title": "Monte seu Time com as Melhores Escolhas",
+        "step2Description": "Molde sua equipe com os melhores carries, unidades AoE e de suporte",
+        "step3Title": "Invista com Confiança",
+        "step3Description": "Gaste Gemas e materiais de evolução em unidades que mantêm sua classificação"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todas as Tier Lists"
+    },
+    "units": {
+      "title": "Unidades de Anime Overseer",
+      "description": "Guias detalhados de unidades de Anime Overseer cobrindo funções, habilidades, raridades, invocações, evolução e melhores cenários de uso.",
+      "metaTitle": "Unidades de Anime Overseer - Funções, Habilidades e Evolução",
+      "metaDescription": "Navegue por cada unidade de Anime Overseer com guias sobre funções, tipos de habilidades, raridade, invocações, evolução e os cenários onde cada unidade se sai melhor.",
+      "categoryLabel": "UNIDADES",
+      "whatIs": "O que são Unidades?",
+      "whatIsDescription": "Unidades de Anime Overseer são os lutadores de anime que você invoca, posiciona, melhora e evolui para defender contra ondas de inimigos. Cada unidade tem uma função, tipo de habilidade, raridade e caminho de melhoria que define onde ela brilha no seu time.",
+      "why": "Por que estudar as unidades?",
+      "whySteps": {
+        "step1Title": "Aprenda as Funções das Unidades",
+        "step1Description": "Veja como cada unidade se encaixa nas funções de carry, AoE, chefe e suporte",
+        "step2Title": "Invoque com Inteligência",
+        "step2Description": "Saiba quais unidades secretas e raras valem a pena buscar nas invocações",
+        "step3Title": "Planeje a Evolução",
+        "step3Description": "Escolha as unidades certas para melhorar e evoluir para ondas mais difíceis"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todas as Unidades"
+    },
+    "resources": {
+      "title": "Recursos de Anime Overseer",
+      "description": "Guias de recursos de Anime Overseer para Gemas, Ouro, Trait Discs, Soul Crystals, rerolls e rotas de farm.",
+      "metaTitle": "Recursos de Anime Overseer - Gemas, Ouro e Farm",
+      "metaDescription": "Domine os recursos de Anime Overseer com guias sobre Gemas, Ouro, Trait Discs, Soul Crystals, tempo de reroll e as melhores rotas de farm para uma progressão constante.",
+      "categoryLabel": "RECURSOS",
+      "whatIs": "O que são Recursos?",
+      "whatIsDescription": "Recursos de Anime Overseer são as moedas e materiais que impulsionam a progressão: Gemas para invocações, Ouro para melhorias, Trait Discs e Rerolls para traits, e Soul Crystals para evolução. Gerenciá-los bem decide o quão rápido seu time cresce.",
+      "why": "Por que gerenciar recursos?",
+      "whySteps": {
+        "step1Title": "Gaste Gemas com Sabedoria",
+        "step1Description": "Planeje invocações e melhorias para construir uma equipe equilibrada rapidamente",
+        "step2Title": "Faça Reroll no Momento Certo",
+        "step2Description": "Guarde Trait Discs e rerolls para unidades que já limpam ondas",
+        "step3Title": "Farme com Eficiência",
+        "step3Description": "Use as melhores rotas de farm para manter o fluxo de Ouro e Soul Crystals"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Guias de Recursos"
+    },
+    "gameplay": {
+      "title": "Gameplay de Anime Overseer",
+      "description": "Guias de gameplay de Anime Overseer cobrindo ondas de tower defense, upgrades, pressão de inimigos e estratégia de batalha.",
+      "metaTitle": "Gameplay de Anime Overseer - Ondas, Upgrades e Estratégia",
+      "metaDescription": "Aprenda sobre o gameplay de Anime Overseer com guias sobre ondas de tower defense, upgrades de unidades, pressão de inimigos, modos infinitos e estratégia de batalha para cada fase.",
+      "categoryLabel": "GAMEPLAY",
+      "whatIs": "O que é Gameplay?",
+      "whatIsDescription": "O gameplay de Anime Overseer é um ciclo de tower defense de anime no Roblox: invoque unidades, posicione-as para bloquear ondas de inimigos, faça upgrades e evolua-as no meio da partida, e sobreviva à pressão inimiga crescente em fases e modos infinitos.",
+      "why": "Por que aprender sobre o gameplay?",
+      "whySteps": {
+        "step1Title": "Leia as Ondas",
+        "step1Description": "Entenda a pressão inimiga e onde as partidas costumam falhar",
+        "step2Title": "Faça Upgrades no Momento Certo",
+        "step2Description": "Planeje o gasto de Ouro em upgrades para segurar cada onda",
+        "step3Title": "Sobreviva por Mais Tempo",
+        "step3Description": "Aplique estratégias de modo infinito e co-op para passar por fases mais difíceis"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Guias de Gameplay"
+    },
+    "release": {
+      "title": "Lançamento de Anime Overseer",
+      "description": "Guias de lançamento, Acesso Antecipado, atualizações e patch notes de Anime Overseer, acompanhando as últimas mudanças do jogo.",
+      "metaTitle": "Lançamento de Anime Overseer - Acesso Antecipado, Atualizações e Patch Notes",
+      "metaDescription": "Acompanhe informações de lançamento, status de Acesso Antecipado, novas atualizações e patch notes de Anime Overseer para planejar sua progressão com base nas últimas mudanças do jogo.",
+      "categoryLabel": "LANÇAMENTO",
+      "whatIs": "O que são as Informações de Lançamento?",
+      "whatIsDescription": "As informações de lançamento de Anime Overseer cobrem o status de Acesso Antecipado do jogo, opções de entrada, novas atualizações e patch notes. Acompanhá-las mantém você atualizado sobre novas unidades, mudanças de balanceamento e novos conteúdos à medida que o jogo cresce.",
+      "why": "Por que acompanhar as informações de lançamento?",
+      "whySteps": {
+        "step1Title": "Conheça o Status de Acesso",
+        "step1Description": "Entenda as opções de entrada do Acesso Antecipado e o que é desbloqueado conforme o jogo é atualizado",
+        "step2Title": "Acompanhe as Novas Atualizações",
+        "step2Description": "Veja o que cada atualização adiciona em termos de unidades, modos e mudanças de balanceamento",
+        "step3Title": "Planeje com Base nos Patch Notes",
+        "step3Description": "Ajuste seu elenco e planos de recursos para se adequar às últimas mudanças"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Guias de Lançamento"
+    }
   }
 }
